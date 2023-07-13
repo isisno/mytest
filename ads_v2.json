@@ -1,12 +1,12 @@
 {
   "feedback": [
     {
-      "img": "https://raw.githubusercontent.com/isisno/mytest/fa0ff7420d12e8b2ce5aa6fcc848d85f33be7da7/bike.png",
+      "img": "https://download.istime.top/myfile/snow.png",
       "click": "https://istime.top"
     },
     {
-      "img": "https://raw.githubusercontent.com/isisno/mytest/dbb77346c78b8842a69f1d1c7e6667dfd00af54d/snow.png",
-      "click": "https://istime.top"
+      "img": "https://download.istime.top/myfile/bike.png",
+      "click": "https://chat.istime.top"
     }
   ]
 }
